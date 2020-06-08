@@ -1,0 +1,13 @@
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.csprojAssemblyReference.cache
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.AssemblyInfoInputs.cache
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.AssemblyInfo.cs
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.csproj.CoreCompileInputs.cache
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.exe
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.deps.json
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.runtimeconfig.json
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.runtimeconfig.dev.json
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.dll
+C:\Users\s\RiderProjects\Lab51\Lab51\bin\Debug\netcoreapp3.1\Lab51.pdb
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.dll
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.pdb
+C:\Users\s\RiderProjects\Lab51\Lab51\obj\Debug\netcoreapp3.1\Lab51.genruntimeconfig.cache
