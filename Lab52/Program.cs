@@ -34,7 +34,7 @@ namespace Lab52
                     "C:\\Users\\s\\RiderProjects\\Lab51\\Lab51\\Coworker.txt",
                     true))
                     f.WriteLine("{0,-31}{1,-16}{2,-15}{3,-5}{4,-20}", Pib, position, date, hours, project);
-                Console.WriteLine("Змiни збережено\n");
+                Console.WriteLine("Змiни збережено\n ");
             }
             else
             {
