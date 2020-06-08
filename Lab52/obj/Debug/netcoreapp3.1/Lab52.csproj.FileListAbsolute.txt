@@ -1,0 +1,13 @@
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.exe
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.deps.json
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.runtimeconfig.json
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.runtimeconfig.dev.json
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.dll
+C:\Users\s\RiderProjects\Lab52\Lab52\bin\Debug\netcoreapp3.1\Lab52.pdb
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.csprojAssemblyReference.cache
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.AssemblyInfoInputs.cache
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.AssemblyInfo.cs
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.csproj.CoreCompileInputs.cache
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.dll
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.pdb
+C:\Users\s\RiderProjects\Lab52\Lab52\obj\Debug\netcoreapp3.1\Lab52.genruntimeconfig.cache
